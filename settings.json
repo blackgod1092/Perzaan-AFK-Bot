@@ -8,7 +8,7 @@
   "server": {
     "ip": "pvpsmp11.aternos.me",
     "port": 20145,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
